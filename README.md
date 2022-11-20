@@ -1,11 +1,12 @@
 # ✨ SPA SUBLIME ✨
 
-This is a web based application developed for beauty and health related based website in India.
+This is a web based application developed for beauty and health related based website.
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Github and EY.
 
 
 **Project Link** - https://yellow-wave-08f13f200.2.azurestaticapps.net
+
 **project demo video link** - 
 
 ## Azure technologies used for Project
@@ -22,33 +23,40 @@ This is a web based application developed for beauty and health related based we
 - Has collection of many web pages including Home, About,services,team,news,Gallery Contact, health topics and health and beauty related information etc.
 - User can know about beauty information through this website.
 - In this we can get health related news also.
+- In this web application i provided map also for Adrress so that people can find easily.
 - Included the feedback Survey to increase the scope of improvement.
 - Users can login and register within this web based application.
 - Wide range of spa services are presented.
 
 ## Screenshots
-![scrrenshot1](https://user-images.githubusercontent.com/110031646/202893787-8a733e82-fe9f-46c5-a131-df669a85644d.png)
+
+![screenshot1](https://user-images.githubusercontent.com/110031646/202896161-7d9880a1-e6ea-44cf-acd0-439ddf28be89.png)
 
 ### About Us -
 
-![screenshot2](https://user-images.githubusercontent.com/110031646/202893808-b72c37fd-709c-4612-8ad9-22e483c830f0.png)
+![screenshot2](https://user-images.githubusercontent.com/110031646/202896181-e56d4d4b-5c00-4760-b92c-3b86cf4228ee.png)
 
 ### Services -
 
-![screenshot3](https://user-images.githubusercontent.com/110031646/202893829-ccc996c6-3c57-4ff3-8b9e-f22b6bf3c051.png)
+![screenshot3](https://user-images.githubusercontent.com/110031646/202896202-c4343a1c-93c1-4f05-bd29-819bc265a320.png)
 
-![screenshot5](https://user-images.githubusercontent.com/110031646/202893846-4f02c138-8868-442f-ba73-bec01453e643.png)
+![screenshot4](https://user-images.githubusercontent.com/110031646/202896215-82e227bc-cafd-4652-897e-03decf85c21e.png)
 
 ### Latest News -
 
-![screenshot4](https://user-images.githubusercontent.com/110031646/202893833-a46037e2-34be-42c3-a7ee-36045e84a2c8.png)
+![screenshot5](https://user-images.githubusercontent.com/110031646/202896275-735fb0c6-d3ce-4612-b4cd-4c5a51d344ff.png)
 
-### health bot-
+### contact us-
 
-![screenshot7](https://user-images.githubusercontent.com/110031646/202893858-5130c931-291d-4887-9759-03b8b283101d.png)
+![screenshot7](https://user-images.githubusercontent.com/110031646/202896288-934003a5-adab-4a22-b73d-f8b16f73b89a.png)
+
+### Healthbot-
+
+![screenshot8](https://user-images.githubusercontent.com/110031646/202896417-4c0edb73-fae2-4c0b-82b8-3e5bb2b67685.png)
 
 ### customer report-
-![screenshot6](https://user-images.githubusercontent.com/110031646/202893854-ca092838-3a6a-448f-9df5-c5954486e86d.png)
+
+![screenshot6](https://user-images.githubusercontent.com/110031646/202896316-b80acc94-9ddc-4623-9d87-8f43015bf0a3.png)
 
 ## Tech Stack 💻
 
