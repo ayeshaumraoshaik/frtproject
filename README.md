@@ -5,7 +5,7 @@ This is a web based application developed for beauty and health related based we
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Github and EY.
 
 
-**Project Link** - https://nice-bay-09532df00.2.azurestaticapps.net/
+**Project Link** - https://yellow-wave-08f13f200.2.azurestaticapps.net
 **project demo video link** - 
 
 ## Azure technologies used for Project
