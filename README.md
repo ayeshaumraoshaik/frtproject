@@ -58,6 +58,14 @@ This is a web based application developed for beauty and health related based we
 
 ![screenshot6](https://user-images.githubusercontent.com/110031646/202896316-b80acc94-9ddc-4623-9d87-8f43015bf0a3.png)
 
+### workflow-
+
+![screenshot9](https://user-images.githubusercontent.com/110031646/202908851-772f0eee-8c30-45dc-ab18-3f259756a97e.png)
+
+### project dashboard-
+
+![screenshot10](https://user-images.githubusercontent.com/110031646/202908905-8d480899-da7c-4147-adac-78fc565e3120.png)
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
