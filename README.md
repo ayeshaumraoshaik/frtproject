@@ -73,3 +73,8 @@ This is a web based application developed for beauty and health related based we
 - CSS
 - Bootstrap
 - JavaScript
+
+
+# Privacy Policies
+
+https://www.freeprivacypolicy.com/live/f0131c20-bdda-47e0-ab65-498d988f89e1
