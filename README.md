@@ -9,6 +9,8 @@ This is a web based application developed for beauty and health related based we
 
 **project demo video link** - https://youtu.be/Xe61T8r1DfE
 
+**project link(github repository)** - https://github.com/ayeshaumraoshaik/frtproject
+
 ## Azure technologies used for Project
 
 - Static web apps
