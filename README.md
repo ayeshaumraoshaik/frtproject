@@ -17,7 +17,7 @@ This is a web based application developed for beauty and health related based we
 ## Features and Functionalities of project 
 
 - Interactive and responsive UI.
--  It has many graphical and visual effects.
+- It has many graphical and visual effects.
 - Have an aesthetically pleasing visual design and architecture.
 - You can take an appointment anytime in this webpage.
 - Has collection of many web pages including Home, About,services,team,news,Gallery Contact, health topics and health and beauty related information etc.
@@ -27,6 +27,19 @@ This is a web based application developed for beauty and health related based we
 - Included the feedback Survey to increase the scope of improvement.
 - Users can login and register within this web based application.
 - Wide range of spa services are presented.
+### Deployment in Azure
+- search for azure healthbot and click onit.
+- start to create Azure healthbot abd fill all information and deploy it.
+- Revie and crosscheck everything before u deploy After deploying checked it.
+- we can use this helathbot links for our code.
+- Search for Static Web Apps Service Which is used for static web pages
+- Start to Create Static Web App
+- Select Subscription, Create Resource Group
+- Filled the Details of App informarion and Deployed Using through GitHub
+- Reviwed and Cross Checked everything and Started to Deploy
+- After Deploying Resource Group, Checked and run CI/CD in github actions
+- Finally Deployed my Static Web Ap
+
 
 ## Screenshots
 
