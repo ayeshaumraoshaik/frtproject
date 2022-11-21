@@ -7,7 +7,7 @@ This is a web based application developed for beauty and health related based we
 
 **Project Link** - https://yellow-wave-08f13f200.2.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/Xe61T8r1DfE
 
 ## Azure technologies used for Project
 
